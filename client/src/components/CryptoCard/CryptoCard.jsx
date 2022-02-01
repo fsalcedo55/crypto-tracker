@@ -86,12 +86,6 @@ const CryptoCard = () => {
                 <div class="text-right">
                   <p class="font-light text-slate-400">{eachCrypto.numLikes}</p>
                   <div>
-                    {/* <img
-                    class="max-h-6"
-                    id="logo"
-                    src="../800px-Ei-heart.png"
-                    alt="logo"
-                  /> */}
                     <p class="text-xs py-1 px-0.5">🤍</p>
                   </div>
                 </div>
